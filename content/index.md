@@ -1,34 +1,19 @@
 ---
-title: Welcome to Quartz
----
----
-title: Fincredible Research
-description: Strategic investing insights for students & long-term thinkers
-tags: [home]
+title: Welcome to Fincredible Research
 ---
 
-# 🧠 Fincredible Research
-
-Welcome to my research hub on long-term, strategic investing.
-
----
-
-## 🔍 Explore by Topic
+Explore deep research on industries, companies, and investing principles.
 
 <div class="card-grid">
-  <a class="card" href="/sectors/EVs">
-    <h3>🔌 Electric Vehicles</h3>
-    <p>Market size, trends, companies, and value chains.</p>
+  <a class="card" href="/hubs/finance">
+    <h3>💰 Finance Hub</h3>
+    <p>If I want find something new, interesting, or too complex, I try to study & understand how it works. And this hub is where you'll find me trying to make sense of the world of finance</p>
   </a>
 
-  <a class="card" href="/sectors/Semiconductors">
-    <h3>💾 Semiconductors</h3>
-    <p>Chips, fabs, supply chains, and key players.</p>
-  </a>
-
-  <a class="card" href="/companies/Tesla">
-    <h3>🚗 Tesla</h3>
-    <p>Company research, strategic bets, risks.</p>
+  <a class="card" href="/hubs/energy">
+    <h3>🧠 Tech Hub</h3>
+    <p>Energy - Crude oil, Hydrogen, Nuclear all sound too intimidating. Makes me want to study it, to figure it out even more. </p>
   </a>
 </div>
+
 

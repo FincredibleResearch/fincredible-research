@@ -1,35 +1,14 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-/* Checkered background */
+// Socratica-inspired design
+// Put this CSS in your custom.scss file
+
+/* Graph paper/grid background like Socratica toolbox */
 body {
-  background-image: radial-gradient(#e2e2e2 1px, transparent 1px);
-  background-size: 20px 20px;
-}
-
-/* Card grid on homepage */
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1rem;
-}
-
-/* Individual card styles */
-.card {
-  display: block;
-  padding: 1rem;
-  background: white;
-  border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  text-decoration: none;
-  color: inherit;
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
-}
-
-.card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  background-color: #fffff0;
+  background-image:
+    linear-gradient(#f0ead6 1px, transparent 1px),
+    linear-gradient(90deg, #f0ead6 1px, transparent 1px);
+  background-size: 25px 25px;
+  color: #333;
 }
