@@ -30,5 +30,4 @@ So now I’m keeping everything here.
 This is my one-stop place for questions, rabbit holes, and messy thinking-in-progress. Not everything will be polished. Some topics may start and go quiet for a while — that usually means I followed a tangent that led me down another rabbit hole (don’t worry, I’ll be back eventually).
 
 If you find any value, spark, or curiosity here, you’re more than welcome to hang out.  
-
-![[Forest.png]]
+ ![[Forest.png]] 

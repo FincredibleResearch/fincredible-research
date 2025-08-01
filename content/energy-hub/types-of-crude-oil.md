@@ -2,7 +2,7 @@
 title: Types of Crude Oil
 tags:
 ---
-
+![[oil_density types.png]]
 ## 3 Primary Qualities
 - Weight – Light Oil vs Heavy Oil
 - Sweetness – 

@@ -3,6 +3,7 @@ Date of creation: 2025-07-31
 Source: https://stratechery.com/2017/amazons-new-customer/
 tags:
   - Stratechery
+  - Amazon
 Last Modified: 2025-07-31
 ---
 
@@ -90,36 +91,31 @@ Last Modified: 2025-07-31
 > ...it doesn’t even rise to strategy.
 
 
+## Fundamentals of Books (e-commerce)
+To understand why groceries are such a challenge look at how they differ from books, Amazon’s first product:
 
-> [!important]
-> To understand why groceries are such a challenge look at how they differ from books, Amazon’s first product:
-> 
-> - There are far more books than can ever fit in a physical store, which means an e-commerce site can win on selection; in comparison, there simply aren’t that many grocery items (a typical grocery store will have between 30,000 and 50,000 SKUs)
-> - When you order a book, you know exactly what you are getting: a book from Amazon is the same as a book from a local bookstore; groceries, on the other hand, can vary in quality not just store-to-store but, particularly in the case of perishable goods, day-to-day and item-to-item
-> - Books can be stored in a centralized warehouse indefinitely; perishable groceries can only be stored for a limited amount of time and degrade in quality during transit
-
+- There are far more books than can ever fit in a physical store, which means an e-commerce site can win on selection; in comparison, there simply aren’t that many grocery items (a typical grocery store will have between 30,000 and 50,000 SKUs)
+- When you order a book, you know exactly what you are getting: a book from Amazon is the same as a book from a local bookstore; groceries, on the other hand, can vary in quality not just store-to-store but, particularly in the case of perishable goods, day-to-day and item-to-item
+- Books can be stored in a centralized warehouse indefinitely; perishable groceries can only be stored for a limited amount of time and degrade in quality during transit
 
 
-> [!important]
-> Groceries is a fundamentally different problem that needs a fundamentally different solution;
-> AmazonFresh was at a cost disadvantage to physical grocers as well: in order to be competitive AmazonFresh needed to stock a lot of perishable items; however, as long as AmazonFresh was not operating at meaningful scale a huge number of those perishable items would spoil. And, given the inherent local nature of groceries, scale needed to be achieved not on a national basis but a city one.
-> 
+##  Different Fundamentals of Groceries (e-commerce)
+Groceries is a fundamentally different problem that needs a fundamentally different solution;
+AmazonFresh was at a cost disadvantage to physical grocers as well: in order to be competitive AmazonFresh needed to stock a lot of perishable items; however, as long as AmazonFresh was not operating at meaningful scale a huge number of those perishable items would spoil. And, given the inherent local nature of groceries, scale needed to be achieved not on a national basis but a city one.
 
-> [!important] The Whole Foods Acquisition
+
+> [!success] The Whole Foods Acquisition
 >  From the outside it may seem that Amazon is buying a retailer. The truth, though, is that Amazon is buying a _customer_ — the first-and-best customer that will instantly bring its grocery efforts to scale.
 > Today, all of the logistics that go into a Whole Foods store are for the purpose of stocking physical shelves: the entire operation is integrated.
 
 
 ![[amz_wholefoods_strategy.png]]
 
-> [!important]
+> [!question] Wholefoods transformed into service architecture
 > What I expect Amazon to do over the next few years is transform the Whole Foods supply chain into a service architecture based on primitives: meat, fruit, vegetables, baked goods, non-perishables (Whole Foods’ outsized reliance on store brands is something that I’m sure was very attractive to Amazon).
 
 
-
 In the long run, physical grocery stores will be only one of Amazon Grocery Services’ customers: obviously a home delivery service will be another, and it will be far more efficient than a company like Instacart trying to layer on top of Whole Foods’ current integrated model.
-
-
 
 I suspect Amazon’s ambitions stretch further, though: Amazon Grocery Services will be well-placed to start supplying restaurants too, gaining Amazon access to another big cut of economic activity. It is the AWS model, which is to say it is the Amazon model, but like AWS, the key to profitability is having a first-and-best customer able to utilize the massive investment necessary to build the service out in the first place.
 

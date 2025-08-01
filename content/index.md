@@ -21,6 +21,11 @@ title: Welcome to Fincredible
     <h3>🌐 Tech Hub</h3>
     <p>Tech – some notes about Big Tech</p>
   </a>
+
+<a class="card" href="/quant-hub/index">
+    <h3>🌐 Quant Hub</h3>
+    <p>Figuring out quant funds</p>
+  </a>
 </div>
 
 
